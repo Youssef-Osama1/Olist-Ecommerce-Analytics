@@ -40,25 +40,31 @@ This project analyzes the Olist e-commerce dataset using **SQL**, **Python**, an
 ## 📊 Power BI Dashboard Preview
 
 > View the full PDF Dashboard here:  
-📁 `[Olist.pdf](Olist.pdf)`
+📁 [Click here to open Olist_Report.pdf](./Olist.pdf)
 
 ---
 
 ## 📁 Folders
 
-- `SQL_Queries/`: Contains all SQL analysis queries
-- `Python_EDA/`: Jupyter Notebook + visuals
-- `PowerBI_Dashboard/`: Final report
-- `Data_Sample/`: Schema samples (no raw data uploaded)
+- `OlistDataset` – Contains the raw data files used in the project (CSV format).
+- `Olist.ipynb` – Python notebook for full exploratory data analysis using pandas, seaborn, and matplotlib.
+- `Olist.pbix` – Power BI report file with interactive dashboards (uploaded locally).
+- `Olist.pdf` – Exported version of the Power BI dashboard (viewable online).
+- `Olist.sql` – All SQL queries used to explore revenue, orders, products, cancellations, and more.
+- `README.md` – This documentation and project overview file.
 
 ---
 
-## 🔍 Insights Sample
+## 🔍 Key Insights from the Dashboard
 
-- 🟢 Revenue peaked in Oct 2017, then declined in mid-2018
-- 🛒 Most sales came from 5 product categories
-- 📦 Shipping delays impacted 15–20% of orders
-- 🧍 A small % of sellers drove ~12% of total sales
+- 📈 Revenue increased steadily from early 2017, reaching a first major peak in November 2017. After a slight drop in December, it surged again in Q1 2018 before gradually declining through mid-to-late 2018.
+- 🛍️ Categories like **bed_bath_table**, **health_beauty**, and **computers_accessories** led in total sales.
+- 💳 Credit cards are the most used payment method, followed by boleto.
+- 📦 São Paulo (SP) dominates in both customer base and revenue share.
+- ⭐ Most customer reviews are positive, indicating strong satisfaction.
+- ⏱️ Average delivery time is ~12 days, with some states and sellers experiencing longer delays.
+- 🚚 Freight costs vary significantly by seller, affecting profitability.
+
 
 ---
 
