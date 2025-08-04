@@ -57,13 +57,13 @@ This project analyzes the Olist e-commerce dataset using **SQL**, **Python**, an
 
 ## 🔍 Key Insights from the Dashboard
 
-- 📈 Revenue increased steadily from early 2017, reaching a first major peak in November 2017. After a slight drop in December, it surged again in Q1 2018 before gradually declining through mid-to-late 2018.
-- 🛍️ Categories like **bed_bath_table**, **health_beauty**, and **computers_accessories** led in total sales.
-- 💳 Credit cards are the most used payment method, followed by boleto.
-- 📦 São Paulo (SP) dominates in both customer base and revenue share.
-- ⭐ Most customer reviews are positive, indicating strong satisfaction.
-- ⏱️ Average delivery time is ~12 days, with some states and sellers experiencing longer delays.
-- 🚚 Freight costs vary significantly by seller, affecting profitability.
+- Revenue increased steadily from early 2017, reaching a first major peak in November 2017. After a slight drop in December, it surged again in Q1 2018 before gradually declining through mid-to-late 2018.
+- Categories like **bed_bath_table**, **health_beauty**, and **computers_accessories** led in total sales.
+- Credit cards are the most used payment method, followed by boleto.
+- São Paulo (SP) dominates in both customer base and revenue share.
+- Most customer reviews are positive, indicating strong satisfaction.
+- Average delivery time is ~12 days, with some states and sellers experiencing longer delays.
+- Freight costs vary significantly by seller, affecting profitability.
 
 
 ---
