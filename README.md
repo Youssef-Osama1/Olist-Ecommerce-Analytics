@@ -40,7 +40,7 @@ This project analyzes the Olist e-commerce dataset using **SQL**, **Python**, an
 ## 📊 Power BI Dashboard Preview
 
 > View the full PDF Dashboard here:  
-📁 `PowerBI_Dashboard/Olist_Report.pdf`
+📁 `[Olist.pdf](Olist.pdf)`
 
 ---
 
